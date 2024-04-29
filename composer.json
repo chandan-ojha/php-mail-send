@@ -1,4 +1,6 @@
 {
   "name": "chandan/php-mail-send",
-  "require": {}
+  "require": {
+    "phpmailer/phpmailer": "^6.9"
+  }
 }
