@@ -1,3 +1,6 @@
 # Executables
 *.app
+
+#folders and files
 /vendor
+mail.config.php
