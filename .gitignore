@@ -1,2 +1,3 @@
 # Executables
 *.app
+/vendor
